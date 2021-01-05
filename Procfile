@@ -1,0 +1,1 @@
+worker: python epilepsy_guard.py

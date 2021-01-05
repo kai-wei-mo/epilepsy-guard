@@ -1,6 +1,9 @@
 # epilepsy-guard
 
 A Discord bot that protects epileptic users by screening GIFs for rapid flickers, flashes, or blinks.
+
+🎈 This document does NOT contain any GIFs that could harm photosensitive or epileptic readers. The testing server and the attached YouTube videos are safe as well.
+
 [![Bot Demo 1](thumbnail1.PNG)](https://www.youtube.com/watch?v=hEhpqDm9n-M "Epilepsy Guard Demo: Good GIF")
 [![Bot Demo 2](thumbnail2.PNG)](https://www.youtube.com/watch?v=6SWhBpLhles "Epilepsy Guard Demo: Malicious GIF")
 
